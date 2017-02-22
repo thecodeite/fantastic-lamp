@@ -1,3 +1,3 @@
 # fantastic-lamp
 
-Lamps are funtastic!
+Lamps are fantastic! 
